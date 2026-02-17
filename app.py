@@ -10,8 +10,8 @@ def home():
             <title>Azure Python Web App</title>
         </head>
         <body>
-            <h1>Welcome to My Azure PaaS Python Web App</h1>
-            <p>This app is running on Azure App Service using Python 3.14.</p>
+            <h1>Welcome to My Changed Azure PaaS Python Web App</h1>
+            <p>This app is running on Azure App Service using Python 3.14 and Gunicorn.</p>
         </body>
     </html>
     """
